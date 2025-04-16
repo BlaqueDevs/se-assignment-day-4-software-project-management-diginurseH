@@ -24,10 +24,10 @@ AI-integrated budgeting tools — forecasting based on planned rollout phases ac
 Agile is DINHA’s heartbeat. It allows us to test chatbot responses with real nurses weekly and iterate fast based on their feedback.
 Waterfall, however, was crucial when integrating with EMTACS and hospital transport systems—where documentation and structure were non-negotiable.
 
-Agile                                           Waterfall
-Good for: chatbot MVP, UX experiments          Good for: partner compliance, backend APIs
-Strengths: adaptability, fast feedback         Strengths: structure, predictability
-Weaknesses: risk of scope creep |              Weaknesses: poor fit for uncertain contexts
+Agile                                               Waterfall
+Good for: chatbot MVP, UX experiments              Good for: partner compliance, backend APIs
+Strengths: adaptability, fast feedback             Strengths: structure, predictability
+Weaknesses: risk of scope creep |                  Weaknesses: poor fit for uncertain contexts
 
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
 Agile is more beneficial in projects like DINHA’s AI-based nurse assistant chatbot. Here, user needs change frequently, and pilot programs offer fresh feedback from remote health workers, especially during humanitarian events or mobile clinics.
